@@ -1,0 +1,19 @@
+#data collecting folder
+dataset/policy_0702.csv
+dataset/claim_0702.csv
+dataset/
+checkpoints/
+
+#result
+result_csv/
+
+#----------------------
+.vscode/
+.DS_STORE
+bin/
+include/
+pip-selfcheck.json
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
